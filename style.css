@@ -1,0 +1,75 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tittle{
+    .para{
+    display: flex;
+    justify-content:center;
+    }
+    .heading{
+        display: flex;
+        justify-content: center;
+        color: #0866ff;
+    }
+}
+.main{
+    margin: 100px;
+    margin-left:150px ;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    height:254px ;
+    width: 396px;
+    .phone{
+    margin-top:200px;
+    width: 364;
+    display: flex;
+    justify-content:center ;
+    /* height: 400px;
+    width: 400px; */
+    align-items: center;
+    
+    }
+    .pass{
+        margin-top: 20px;
+        border-radius:10px;
+        display: flex;
+    justify-content:center ;
+    /* height: 400px;
+    width: 400px; */
+    align-items: center;
+    }
+    .button{
+        margin-top: 10px;
+        margin-left:13 px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+    height: 51px;
+    width: 364px;
+     display: flex;
+    justify-content:center ;
+    /* height: 400px;
+    width: 400px; */
+    align-items: center;
+    background-color: #0866ff;
+    }
+    .forget{
+        margin-top: 10px;
+         display: flex;
+    justify-content:center ;
+    /* height: 400px;
+    width: 400px; */
+    align-items: center;
+    }
+    .npass{
+        margin-top: 10px;
+         display: flex;
+    justify-content:center ;
+    /* height: 400px;
+    width: 400px; */
+    align-items: center;
+    }
+}
